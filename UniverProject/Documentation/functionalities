@@ -1,0 +1,27 @@
+## Sales Application Documentation
+
+### Planned Functionalities:
+1. Create Customers: Users will be able to create new customer records by providing customer details such as name, contact number, email, and address.
+2. Create Articles: Users will be able to add new articles to the system by entering article details like name, price, and quantity in stock.
+3. Create Sales Invoices: Users can generate sales invoices by selecting a customer, adding articles to the invoice, and specifying the invoice date.
+4. Retrieve Customer Information: Users can retrieve customer details by providing the customer ID.
+5. Retrieve Article Information: Users can view article details by entering the article ID.
+6. Retrieve Sales Invoice Information: Users can access sales invoice information by providing the invoice ID.
+
+### Realized Functionalities:
+1. Create Customers: Users can create new customer records with all the required details.
+2. Create Articles: Users can add new articles to the system with name, price, and quantity in stock.
+3. Create Sales Invoices: Users can generate sales invoices by selecting a customer, adding articles to the invoice, and specifying the invoice date.
+4. Retrieve Customer Information: Users can retrieve customer details by providing the customer ID.
+5. Retrieve Article Information: Users can view article details by entering the article ID.
+6. Retrieve Sales Invoice Information: Users can access sales invoice information by providing the invoice ID.
+
+### Ideas for Future:
+1. Update and Delete Functionality: Implement the ability to update and delete customer records, articles, and sales invoices.
+2. Search Functionality: Allow users to search for customers, articles, and sales invoices based on various criteria such as name, ID, or date.
+3. Reporting and Analytics: Provide reporting capabilities to generate sales reports, customer insights, and article stock analysis.
+4. User Authentication and Authorization: Implement user authentication and role-based access control to secure the application.
+5. Integration with Payment Systems: Allow users to record and process payments associated with sales invoices.
+6. Mobile Application: Develop a mobile version of the application for convenient access and usage on smartphones and tablets.
+
+
